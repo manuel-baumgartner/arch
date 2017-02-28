@@ -1,3 +1,5 @@
+# don't use; not finished
+
 This will setup a whole arch system with some scripts
 
 
